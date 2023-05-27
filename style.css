@@ -1,0 +1,597 @@
+.mart {
+  display: flex;
+}
+
+.abc img {
+  margin-left: 200px;
+  height: 190px;
+  width: 150px;
+}
+
+.def {
+  display: flex;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.def li {
+  margin-left: 50px;
+  margin-top: 55px;
+  font-size: large;
+  color: rgb(72, 70, 70);
+}
+
+.ghi {
+  margin-left: 122px;
+  margin-top: 62px;
+  font-size: 25px;
+}
+
+
+.jkl img {
+  width: 89%;
+  height: 50%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.mno {
+  position: relative;
+  left: 500px;
+  bottom: 350px;
+  width: 490px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  text-align: center;
+}
+
+.juhu {
+  width: 90px;
+  height: 30px;
+  border: 2px solid black;
+  background-color: rgb(217, 214, 214);
+  margin-left: 15px;
+}
+
+.or {
+  color: orangered;
+}
+
+
+.ddd {
+  position: relative;
+  left: 600px;
+  bottom: 150px;
+  width: 25%;
+
+}
+
+.ddd span {
+  background-color: rgb(255, 78, 14);
+  padding: 10px;
+}
+
+#ccc {
+  display: flex;
+  padding-left: 200px;
+}
+
+
+.cu {
+  width: 90px;
+  height: 30px;
+  border: 2px solid black;
+  background-color: rgb(217, 214, 214);
+  margin-left: 160px;
+}
+
+.pq img {
+  padding-left: 110px;
+  height: 40%;
+  width: 40%;
+}
+
+.rs img {
+  padding-left: 110px;
+  height: 40%;
+  width: 40%;
+}
+
+.tu img {
+  padding-left: 110px;
+  height: 40%;
+  width: 40%;
+}
+
+#ccc h2,
+p {
+  text-align: center;
+}
+
+.tu {
+  padding-left: 60px;
+
+}
+
+
+
+.pa {
+  text-align: center;
+  border: 2px solid grey;
+
+}
+
+.pap {
+  text-align: center;
+  border: 2px solid grey;
+}
+
+.papa {
+  text-align: center;
+  border: 2px solid grey;
+}
+
+.eee {
+  display: flex;
+  padding-top: 90px;
+
+}
+
+.vv {
+  width: 90px;
+  height: 30px;
+  border: 2px solid black;
+  background-color: rgb(217, 214, 214);
+  margin-left: 5px;
+}
+
+.eee>div {
+  margin-left: 50px;
+  margin-right: 100px;
+  width: 400px;
+  height: 400px;
+
+}
+
+.aji {
+  text-align: center;
+  position: relative;
+  left: 600px;
+  top: 50px;
+  width: 25%;
+}
+
+.aji span {
+  background-color: rgb(255, 52, 6);
+  padding: 10px;
+}
+
+.dida {
+  display: flex;
+  padding-top: 50px;
+}
+
+.dida>div {
+  width: 350px;
+  height: 400px;
+  margin-left: 50px;
+  margin-right: 100px;
+}
+
+.papaa {
+  text-align: center;
+  border: 2px solid grey;
+}
+
+.papaaa {
+  text-align: center;
+  border: 2px solid grey;
+}
+
+.papaaaa {
+  text-align: center;
+  border: 2px solid grey;
+}
+
+
+.star {
+  margin-top: 20px;
+  margin-left: -20px;
+}
+.star i{
+   width: 0px;
+}
+
+#fff {
+  display: flex;
+  padding-left: 150px;
+}
+
+#fff div {
+  margin-top: 50px;
+  text-align: center;
+  width: 250px;
+  background-color: rgb(233, 240, 247);
+  margin: 2px;
+  margin-left: 5px;
+  margin-right: 50px;
+  margin-top: 60px;
+}
+
+.ajo span {
+  background-color: rgb(255, 52, 6);
+  padding: 10px;
+}
+
+.ajo {
+  position: relative;
+  top: 20px;
+  left: 600px;
+}
+
+#ccc div {
+  background-color: rgb(233, 240, 247);
+  margin-left: 5px;
+  margin-right: 50px;
+  width: 450px;
+  height: 250px;
+  padding: 28px;
+}
+
+.view {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.view span {
+  background-color: rgb(255, 52, 6);
+  padding: 10px;
+}
+
+.deo {
+  border: 2px solid black;
+  width: 293px;
+  height: 368px;
+  margin-top: 33px;
+  margin-left: 100px;
+}
+
+.deo img {
+  border-radius: 120px;
+  margin-left: 83px;
+  margin-top: 10px;
+  margin-right: 30px;
+  width: 120px;
+}
+
+.deo p {
+  text-align: center;
+}
+
+.deo h3 {
+  text-align: center;
+}
+
+.deo p {
+  text-align: center;
+}
+
+.bob {
+  border: 2px solid black;
+  width: 293px;
+  height: 368px;
+  margin-top: 33px;
+  margin-left: 100px
+}
+
+.bob img {
+  border-radius: 120px;
+  margin-left: 83px;
+  margin-top: 10px;
+  margin-right: 30px;
+  width: 120px;
+}
+
+.bob p,
+h3 {
+  text-align: center;
+}
+
+
+.john {
+  border: 2px solid black;
+  width: 293px;
+  height: 368px;
+  margin-top: 33px;
+  margin-left: 100px
+}
+
+.john img {
+  border-radius: 120px;
+  margin-left: 83px;
+  margin-top: 10px;
+  margin-right: 30px;
+  width: 120px;
+}
+
+.tar {
+  width: 150px;
+  margin-left: 99px;
+  margin-top: -28px
+}
+
+#giga {
+  display: flex;
+  justify-content: center;
+}
+
+.blog {
+  margin-top: 100px;
+  margin-left: 662px;
+}
+
+.blog span {
+  background-color: rgb(255, 52, 6);
+  padding: 10px;
+}
+
+.red {
+  width: 365px;
+  height: 461px;
+  margin-top: 33px;
+  margin-left: 100px;
+  background-color: rgb(225, 217, 217);
+}
+
+.red img {
+  width: 365px;
+  height: 250px;
+}
+
+.red h3,
+p {
+  text-align: center;
+}
+
+.bu {
+  margin-left: 134px;
+}
+
+.mon {
+  display: flex;
+  justify-content: space-between;
+}
+
+.mon i {
+  margin-top: 20px;
+  color: orangered;
+}
+
+.mon div {
+  display: flex;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.sed {
+  width: 365px;
+  height: 461px;
+  margin-top: 33px;
+  margin-left: 100px;
+  background-color: rgb(225, 217, 217);
+}
+
+.sed img {
+  width: 365px;
+  height: 250px;
+}
+
+.sed h3,
+p {
+  text-align: center;
+}
+
+.wed {
+  width: 365px;
+  height: 461px;
+  margin-top: 33px;
+  margin-left: 100px;
+  background-color: rgb(225, 217, 217);
+}
+
+.wed img {
+  width: 365px;
+  height: 250px;
+}
+
+.wed h3,
+p {
+  text-align: center;
+}
+
+#figa {
+  display: flex;
+}
+
+.dam {
+  font-size: 25px;
+  color: orangered;
+  margin-left: 201px;
+  margin-top: 200px;
+
+
+}
+
+.ginni {
+  width: 20%;
+  border: 2px solid black;
+}
+
+.mart {
+  color: rgb(22, 22, 200);
+  margin-left: 62px;
+
+}
+
+#drama p {
+  width: 97%;
+}
+
+.dama {
+  margin-left: 103px;
+
+}
+
+#drama {
+  display: flex;
+}
+
+
+.mat {
+  color: rgb(22, 22, 200);
+  margin-left: -32px;
+}
+
+.flip i {
+  color: orangered;
+  display: block;
+  padding: 10px;
+  margin-bottom: 7px;
+  padding-top: 3px;
+}
+
+.flip span {
+  color: black;
+  font-size: small;
+  margin-left: 5px;
+  font-weight: 200;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.kart i {
+  color: orangered;
+  display: block;
+  padding: 10px;
+  margin-bottom: 7px;
+  padding-top: 3px;
+}
+
+.kart span {
+  color: black;
+  font-size: small;
+  margin-left: 5px;
+  font-weight: 200;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.links {
+  margin-left: 106px;
+  width: 25%;
+}
+
+.mata {
+  margin-left: 7px;
+  color: rgb(22, 22, 200);
+}
+
+.fresh {
+  width: 200px;
+  padding-left: 200px;
+  padding-top: 37px;
+}
+
+.maa {
+  color: orangered;
+  display: flex;
+  padding-left: 23px;
+}
+
+.maa i {
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+.swe i {
+  padding-left: 20px;
+}
+
+.free {
+  width: 260px;
+  margin-left: 120px;
+  padding-top: 32px;
+}
+
+.free h2,
+i {
+  color: orangered;
+  display: flex;
+  padding-left: 23px;
+}
+
+.free i {
+  display: flex;
+  padding-bottom: 10px;
+}
+
+.phn span {
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-left: 13px;
+}
+
+#css {
+  display: flex;
+}
+
+.arrow span {
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-left: 13px;
+}
+
+.quick h2,
+i {
+  color: orangered;
+}
+
+.quick i {
+  display: flex;
+  padding-bottom: 10px;
+}
+
+.quick {
+  padding-top: 26px;
+  margin-left: 52px;
+}
+
+.news {
+  padding-top: 26px;
+  margin-left: 71px;
+}
+
+.for h2 {
+  color: orangered;
+}
+
+.for p {
+  padding-right: 135px;
+}
+
+.on {
+  margin-left: 10px;
+}
+
+.news img {
+  padding-top: 25px;
+}
+
+#tata {
+  margin-left: 366px;
+  margin-top: 40px;
+}
+
+#tata span {
+  color: orangered;
+}
